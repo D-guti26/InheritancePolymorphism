@@ -1,6 +1,6 @@
+package InheritancePolymorphism;
 import java.util.Comparator;
 
-import InheritancePolymorphism.Student;
 
 public class StudentComparator implements Comparator<Student> {
   

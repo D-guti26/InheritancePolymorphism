@@ -1,6 +1,6 @@
 package InheritancePolymorphism;
 import java.util.ArrayList;
-import path.to.StudentComparator;
+
 
 public class Inheritance {
 
