@@ -14,8 +14,7 @@ public class Student extends User {
   }
 
   @Override
-  public String toString() {
-    // TODO Auto-generated method stub
+  public String getName() {
     return super.getName() + " is a Student";
   }
   
